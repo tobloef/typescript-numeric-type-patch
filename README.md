@@ -1,6 +1,6 @@
 # TypeScript Numeric Type Patcher
 
-Patches built-in TypeScript library files to use more strongly typed numeric typed for `TypedArray` sub-types and `DataView´.
+Patches built-in TypeScript library files to use more strongly typed numeric typed for `TypedArray` sub-types and `DataView`.
 
 It's a Bun script, currently incompatible with Node.js.
 
